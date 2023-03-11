@@ -18,7 +18,7 @@ body {
     width: 12px;
     border-radius: 10px;
     background: white;
-    animation: movement 1.5s ease-in-out;
+    animation: movement 1.5s ease-in-out infinite;
 }
 
 @keyframes movement {
